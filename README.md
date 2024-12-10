@@ -1,4 +1,4 @@
-NoHearts
+No Hearts!
 =======
 Replaces the regular Minecraft hearts with a functional healthbar.
 
